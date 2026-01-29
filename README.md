@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌱 Surplus Plate — Reducing Food Waste Through Technology
 
 **Surplus Plate** is a mobile application designed to reduce food waste by connecting restaurants with surplus prepared food to consumers seeking affordable meals.  
@@ -106,6 +105,3 @@ Indus University
 
 > “Technology becomes powerful when it solves real human problems.”
 =======
-# surplus-plate
-Surplus Plate is a mobile app that connects restaurants with surplus food to consumers looking for affordable meals, helping reduce food waste while promoting sustainability.
->>>>>>> d3cc974584dba718ac3fa9ffa7e81283f1700609
