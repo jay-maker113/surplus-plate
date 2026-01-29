@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035837422902",
+    "project_id": "surplus-plate",
+    "storage_bucket": "surplus-plate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035837422902:android:cdcaa8b4aa41126e758797",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitIRWubVahYxgbscBwl9vT15lIYuQ3gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
